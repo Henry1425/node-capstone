@@ -1,0 +1,27 @@
+{
+  "name": "node-capstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henry1425/node-capstone.git"
+  },
+  "author": "Henry Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henry1425/node-capstone/issues"
+  },
+  "homepage": "https://github.com/Henry1425/node-capstone#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "mocha": "^3.0.2"
+  }
+}
